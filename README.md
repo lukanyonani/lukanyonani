@@ -52,6 +52,10 @@ South Africa 🇿🇦
 
 <img src="https://streak-stats.demolab.com/?user=lukanyonani&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=00FF41&dates=555555" alt="Contribution streak" />
 
+## ⟨ Digital Rain ⟩
+
+<img src="https://raw.githubusercontent.com/lukanyonani/lukanyonani/output/github-snake.svg" width="100%" alt="Contribution snake" />
+
 ## ⟨ The Rabbit Hole ⟩
 
 <a href="https://lnani.co.za"><img src="https://img.shields.io/badge/lnani.co.za-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Website" /></a>

@@ -47,9 +47,7 @@ South Africa 🇿🇦
 
 ## ⟨ System Diagnostics ⟩
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lukanyonani&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&area_color=003B00&hide_border=true&custom_title=Signal%20Activity" width="100%" alt="Contribution activity graph" />
-
-<img src="https://ghchart.rshah.org/00ff41/lukanyonani" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/00ff41/lukanyonani?v=2" width="100%" alt="Contribution graph" />
 
 ## ⟨ Digital Rain ⟩
 

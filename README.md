@@ -47,10 +47,9 @@ South Africa 🇿🇦
 
 ## ⟨ System Diagnostics ⟩
 
-<img src="https://github-readme-stats.vercel.app/api?username=lukanyonani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukanyonani&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" height="165" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lukanyonani&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&area_color=003B00&hide_border=true&custom_title=Signal%20Activity" width="100%" alt="Contribution activity graph" />
 
-<img src="https://streak-stats.demolab.com/?user=lukanyonani&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=00FF41&dates=555555" alt="Contribution streak" />
+<img src="https://ghchart.rshah.org/00ff41/lukanyonani" width="100%" alt="Contribution graph" />
 
 ## ⟨ Digital Rain ⟩
 
